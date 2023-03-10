@@ -101,8 +101,11 @@ b. [Etter, Andrew. Modern Technical Writing. Kindle edition, Self-published, 201
 c. [Jekyll website](https://jekyllrb.com/)
 
 d. [Mike Dane's Jekyll Static Site Generator Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB/)
+
 e. [GitHub pages](https://pages.github.com/)
+
 f. [A Markdown editor](https://pages.github.com/)
+
 g. [VS Code](https://code.visualstudio.com/download)
 
 ## Concepts of Etter's Book
