@@ -1,4 +1,4 @@
-#  How to host and format a resume using Jekyle
+#  How to host and format a resume using Markdown, VS Code, GitHub pages and Jekyll
 
   
 
